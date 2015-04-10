@@ -6,7 +6,7 @@
  * Time: 14:21
  */
 
-namespace drxwat\basket;
+namespace frankyball\basket;
 
 
 use drxwat\basket\BasketComponent;

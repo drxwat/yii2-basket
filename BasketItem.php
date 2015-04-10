@@ -6,7 +6,7 @@
  * Time: 11:18
  */
 
-namespace drxwat\basket;
+namespace frankyball\basket;
 
 /**
  * TODO: Добавить указания типа объекта className например и выборки по типу

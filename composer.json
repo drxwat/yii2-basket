@@ -3,5 +3,10 @@
   "description": "A basket component producing API for backend and frontend code",
   "require": {
     "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "frankyball\\basket\\": ""
+    }
   }
 }

@@ -6,7 +6,7 @@
  * Time: 10:45
  */
 
-namespace drxwat\basket;
+namespace frankyball\basket;
 
 use yii\base\Object;
 use yii\web\Cookie;
