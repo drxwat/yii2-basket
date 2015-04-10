@@ -1,5 +1,5 @@
 {
-  "name": "drxwat/yii2-basket",
+  "name": "frankyball/yii2-basket",
   "description": "A basket component producing API for backend and frontend code",
   "require": {
     "yiisoft/yii2": "*"

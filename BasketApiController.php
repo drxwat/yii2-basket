@@ -9,7 +9,7 @@
 namespace frankyball\basket;
 
 
-use drxwat\basket\BasketComponent;
+use frankyball\basket\BasketComponent;
 use yii\web\Controller;
 
 class BasketApiController extends Controller{
